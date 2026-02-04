@@ -122,7 +122,7 @@ Python (for data cleaning – missing values handling)
 
 📷 Dashboard Preview
 
-(Add dashboard screenshot here)
+![BigBasket Dashboard](screenshots/dashboard.png)
 
 👤 Author
 
