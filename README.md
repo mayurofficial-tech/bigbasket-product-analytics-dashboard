@@ -1,4 +1,8 @@
 📊 BigBasket Product Analytics Dashboard (Excel)
+📷 Dashboard Preview
+
+![BigBasket Dashboard](screenshots/dashboard.png)
+
 📌 Project Overview
 
 This project is an Excel-based interactive dashboard created to analyze BigBasket product data.
@@ -119,10 +123,6 @@ Slicers
 Advanced formulas
 
 Python (for data cleaning – missing values handling)
-
-📷 Dashboard Preview
-
-![BigBasket Dashboard](screenshots/dashboard.png)
 
 👤 Author
 
